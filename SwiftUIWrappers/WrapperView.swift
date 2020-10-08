@@ -12,7 +12,7 @@ struct WrapperView: View {
 
     var body: some View {
         VStack {
-            Button("Pull Up UIView") {
+            Button("Pull Up UIView as a sheet") {
                self.showingUIView = true
             }
         }
