@@ -11,6 +11,8 @@
 		D2789644252E9547007D3A39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2789643252E9547007D3A39 /* ContentView.swift */; };
 		D2789646252E954A007D3A39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2789645252E954A007D3A39 /* Assets.xcassets */; };
 		D2789649252E954A007D3A39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2789648252E954A007D3A39 /* Preview Assets.xcassets */; };
+		D2789652252E9583007D3A39 /* UIViewWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2789651252E9583007D3A39 /* UIViewWrapper.swift */; };
+		D2789655252E964E007D3A39 /* WrapperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2789654252E964E007D3A39 /* WrapperView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		D2789645252E954A007D3A39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2789648252E954A007D3A39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D278964A252E954A007D3A39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2789651252E9583007D3A39 /* UIViewWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewWrapper.swift; sourceTree = "<group>"; };
+		D2789654252E964E007D3A39 /* WrapperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrapperView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				D2789641252E9547007D3A39 /* SwiftUIWrappersApp.swift */,
 				D2789643252E9547007D3A39 /* ContentView.swift */,
+				D2789651252E9583007D3A39 /* UIViewWrapper.swift */,
+				D2789654252E964E007D3A39 /* WrapperView.swift */,
 				D2789645252E954A007D3A39 /* Assets.xcassets */,
 				D278964A252E954A007D3A39 /* Info.plist */,
 				D2789647252E954A007D3A39 /* Preview Content */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2789652252E9583007D3A39 /* UIViewWrapper.swift in Sources */,
+				D2789655252E964E007D3A39 /* WrapperView.swift in Sources */,
 				D2789644252E9547007D3A39 /* ContentView.swift in Sources */,
 				D2789642252E9547007D3A39 /* SwiftUIWrappersApp.swift in Sources */,
 			);
