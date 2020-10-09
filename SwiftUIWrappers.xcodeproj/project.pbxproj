@@ -13,6 +13,7 @@
 		D2789649252E954A007D3A39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2789648252E954A007D3A39 /* Preview Assets.xcassets */; };
 		D2789652252E9583007D3A39 /* UIViewWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2789651252E9583007D3A39 /* UIViewWrapper.swift */; };
 		D2789655252E964E007D3A39 /* WrapperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2789654252E964E007D3A39 /* WrapperView.swift */; };
+		D27B5621252E9C5400FCE357 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27B5620252E9C5400FCE357 /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D278964A252E954A007D3A39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2789651252E9583007D3A39 /* UIViewWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewWrapper.swift; sourceTree = "<group>"; };
 		D2789654252E964E007D3A39 /* WrapperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrapperView.swift; sourceTree = "<group>"; };
+		D27B5620252E9C5400FCE357 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D2789641252E9547007D3A39 /* SwiftUIWrappersApp.swift */,
 				D2789643252E9547007D3A39 /* ContentView.swift */,
+				D27B5620252E9C5400FCE357 /* TextView.swift */,
 				D2789651252E9583007D3A39 /* UIViewWrapper.swift */,
 				D2789654252E964E007D3A39 /* WrapperView.swift */,
 				D2789645252E954A007D3A39 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 				D2789655252E964E007D3A39 /* WrapperView.swift in Sources */,
 				D2789644252E9547007D3A39 /* ContentView.swift in Sources */,
 				D2789642252E9547007D3A39 /* SwiftUIWrappersApp.swift in Sources */,
+				D27B5621252E9C5400FCE357 /* TextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
